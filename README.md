@@ -1,5 +1,8 @@
  # AP_RSD_py
-AP part of the RSD analysis in configuration space for eBOSS LRG sample 
+AP part of the RSD analysis in configuration space for eBOSS LRG sample.
+
+DISCLAIMER: 
+* This code has not been maintained since it was originally developed in 2017. * 
 
 Data is public now and it can be downloaded from: https://data.sdss.org/sas/dr16/eboss/lss/catalogs/ 
 
