@@ -34,7 +34,8 @@ def sequantialplotchi2grid(ngrid):
     m = 2
     nu = n - m
 
-    d1s, d2s, d3s = 33.1211, 44.2248, 56.0425
+    #d1s, d2s, d3s = 33.1211, 44.2248, 56.0425
+    d1s, d2s, d3s = 2.30, 6.17, 11.8
     sigma1, sigma2, sigma3 = chi2b+d1s,  chi2b+d2s,  chi2b+d3s
     levels = [sigma1, sigma2, sigma3]
 
