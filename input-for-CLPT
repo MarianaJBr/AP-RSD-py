@@ -1,0 +1,12 @@
+
+Init
+r_max     196
+r_min     4
+r_bin_num  25
+n_thread   10
+xi_file    ../data/xi_qso.txt
+v12_file   ../data/v12_qso.txt
+s12_file   ../data/s12_qso.txt
+pow_spec_file  ../data/QSOsmockz1.7_pk.dat
+# k_input     ../data/k_func.txt
+# q_input     ../data/q_func.txt
