@@ -8,6 +8,12 @@ Data is public now and it can be downloaded from: https://data.sdss.org/sas/dr16
 
 The analysis should be done together with Gaussian Streaming Model for RSD and the Convolution Lagrangian Perturbation Theory. More info in CLPT_GSRSD https://github.com/wll745881210/CLPT_GSRSD 
 
+The development of this code has profited from the very valuable input of a number of people. They are acknowledged here:
+
+* Mariana Vargas Magana
+* Sebastien Fromentau
+* Omar Abel Rodriguez Lopez
+
 
 Run CLASS with the cosmology:
  
